@@ -1,0 +1,48 @@
+# Віртуальне оточення
+venv/
+.env/
+
+# Файли Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# База даних
+*.sqlite3
+*.db
+
+# Файли IDE та редакторів
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Статика та медіа
+/staticfiles/
+/media/
+
+# Файли логів
+*.log
+
+# Файли середовища
+.env
+.env.local
+.env.*.local
+
+# Файли тестів
+.coverage
+htmlcov/
+
+# Файли пакунків
+*.egg-info/
+dist/
+build/
+
+# Операційні системи
+.DS_Store
+Thumbs.db
+
